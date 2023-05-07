@@ -1,0 +1,4 @@
+rootProject.name = 'vndevteam-java-multi-module'
+include('vndevteam-java-core')
+include('vndevteam-java-web-core')
+include('vndevteam-java-webapi')
